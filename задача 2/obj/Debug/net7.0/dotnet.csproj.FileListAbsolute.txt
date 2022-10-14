@@ -1,0 +1,5 @@
+C:\Users\Beauty Glance\Desktop\it\dotnet\obj\Debug\net7.0\dotnet.csproj.AssemblyReference.cache
+C:\Users\Beauty Glance\Desktop\it\dotnet\obj\Debug\net7.0\dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beauty Glance\Desktop\it\dotnet\obj\Debug\net7.0\dotnet.AssemblyInfoInputs.cache
+C:\Users\Beauty Glance\Desktop\it\dotnet\obj\Debug\net7.0\dotnet.AssemblyInfo.cs
+C:\Users\Beauty Glance\Desktop\it\dotnet\obj\Debug\net7.0\dotnet.csproj.CoreCompileInputs.cache
